@@ -1,0 +1,11 @@
+[env:mkrzero]
+platform = atmelsam
+board = mkrzero
+framework = arduino
+
+monitor_port = COM9
+monitor_speed = 115200
+
+monitor_filters =
+    time
+    log2file
