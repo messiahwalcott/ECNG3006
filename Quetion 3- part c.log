@@ -1,0 +1,804 @@
+[32824 ms] T1 finished 500 ms active wait
+[32827 ms] T1 released mutex - yielding
+[32831 ms] T1 waiting for LED mutex
+[32834 ms] T1 acquired mutex - LED ON
+[33337 ms] T1 finished 500 ms active wait
+[33340 ms] T1 released mutex - yielding
+[33344 ms] T1 waiting for LED mutex
+[33347 ms] T1 acquired mutex - LED ON
+[33850 ms] T1 finished 500 ms active wait
+[33853 ms] T1 released mutex - yielding
+[33857 ms] T1 waiting for LED mutex
+[33860 ms] T1 acquired mutex - LED ON
+[34363 ms] T1 finished 500 ms active wait
+[34366 ms] T1 released mutex - yielding
+[34370 ms] T1 waiting for LED mutex
+[34373 ms] T1 acquired mutex - LED ON
+[34876 ms] T1 finished 500 ms active wait
+[34879 ms] T1 released mutex - yielding
+[34883 ms] T1 waiting for LED mutex
+[34886 ms] T1 acquired mutex - LED ON
+[35389 ms] T1 finished 500 ms active wait
+[35392 ms] T1 released mutex - yielding
+[35396 ms] T1 waiting for LED mutex
+[35399 ms] T1 acquired mutex - LED ON
+[35902 ms] T1 finished 500 ms active wait
+[35905 ms] T1 released mutex - yielding
+[35909 ms] T1 waiting for LED mutex
+[35912 ms] T1 acquired mutex - LED ON
+[36415 ms] T1 finished 500 ms active wait
+[36418 ms] T1 released mutex - yielding
+[36422 ms] T1 waiting for LED mutex
+[36425 ms] T1 acquired mutex - LED ON
+[36928 ms] T1 finished 500 ms active wait
+[36931 ms] T1 released mutex - yielding
+[36935 ms] T1 waiting for LED mutex
+[36938 ms] T1 acquired mutex - LED ON
+[37441 ms] T1 finished 500 ms active wait
+[37444 ms] T1 released mutex - yielding
+[37448 ms] T1 waiting for LED mutex
+[37451 ms] T1 acquired mutex - LED ON
+[37954 ms] T1 finished 500 ms active wait
+[37957 ms] T1 released mutex - yielding
+[37961 ms] T1 waiting for LED mutex
+[37964 ms] T1 acquired mutex - LED ON
+[38467 ms] T1 finished 500 ms active wait
+[38470 ms] T1 released mutex - yielding
+[38474 ms] T1 waiting for LED mutex
+[38477 ms] T1 acquired mutex - LED ON
+[38980 ms] T1 finished 500 ms active wait
+[38983 ms] T1 released mutex - yielding
+[38987 ms] T1 waiting for LED mutex
+[38990 ms] T1 acquired mutex - LED ON
+[39493 ms] T1 finished 500 ms active wait
+[39496 ms] T1 released mutex - yielding
+[39500 ms] T1 waiting for LED mutex
+[39503 ms] T1 acquired mutex - LED ON
+[40006 ms] T1 finished 500 ms active wait
+[40009 ms] T1 released mutex - yielding
+[40013 ms] T1 waiting for LED mutex
+[40016 ms] T1 acquired mutex - LED ON
+[40519 ms] T1 finished 500 ms active wait
+[40522 ms] T1 released mutex - yielding
+[40526 ms] T1 waiting for LED mutex
+[40529 ms] T1 acquired mutex - LED ON
+[41032 ms] T1 finished 500 ms active wait
+[41035 ms] T1 released mutex - yielding
+[41039 ms] T1 waiting for LED mutex
+[41042 ms] T1 acquired mutex - LED ON
+[41545 ms] T1 finished 500 ms active wait
+[41548 ms] T1 released mutex - yielding
+[41552 ms] T1 waiting for LED mutex
+[41555 ms] T1 acquired mutex - LED ON
+[42058 ms] T1 finished 500 ms active wait
+[42061 ms] T1 released mutex - yielding
+[42065 ms] T1 waiting for LED mutex
+[42068 ms] T1 acquired mutex - LED ON
+[42571 ms] T1 finished 500 ms active wait
+[42574 ms] T1 released mutex - yielding
+[42578 ms] T1 waiting for LED mutex
+[42581 ms] T1 acquired mutex - LED ON
+[43084 ms] T1 finished 500 ms active wait
+[43087 ms] T1 released mutex - yielding
+[43091 ms] T1 waiting for LED mutex
+[43094 ms] T1 acquired mutex - LED ON
+[43597 ms] T1 finished 500 ms active wait
+[43600 ms] T1 released mutex - yielding
+[43604 ms] T1 waiting for LED mutex
+[43607 ms] T1 acquired mutex - LED ON
+[44110 ms] T1 finished 500 ms active wait
+[44113 ms] T1 released mutex - yielding
+[44117 ms] T1 waiting for LED mutex
+[44120 ms] T1 acquired mutex - LED ON
+[44623 ms] T1 finished 500 ms active wait
+[44626 ms] T1 released mutex - yielding
+[44630 ms] T1 waiting for LED mutex
+[44633 ms] T1 acquired mutex - LED ON
+[45136 ms] T1 finished 500 ms active wait
+[45139 ms] T1 released mutex - yielding
+[45143 ms] T1 waiting for LED mutex
+[45146 ms] T1 acquired mutex - LED ON
+[45649 ms] T1 finished 500 ms active wait
+[45652 ms] T1 released mutex - yielding
+[45656 ms] T1 waiting for LED mutex
+[45659 ms] T1 acquired mutex - LED ON
+[46162 ms] T1 finished 500 ms active wait
+[46165 ms] T1 released mutex - yielding
+[46169 ms] T1 waiting for LED mutex
+[46172 ms] T1 acquired mutex - LED ON
+[46675 ms] T1 finished 500 ms active wait
+[46678 ms] T1 released mutex - yielding
+[46682 ms] T1 waiting for LED mutex
+[46685 ms] T1 acquired mutex - LED ON
+[47188 ms] T1 finished 500 ms active wait
+[47191 ms] T1 released mutex - yielding
+[47195 ms] T1 waiting for LED mutex
+[47198 ms] T1 acquired mutex - LED ON
+[47701 ms] T1 finished 500 ms active wait
+[47704 ms] T1 released mutex - yielding
+[47708 ms] T1 waiting for LED mutex
+[47711 ms] T1 acquired mutex - LED ON
+[48214 ms] T1 finished 500 ms active wait
+[48217 ms] T1 released mutex - yielding
+[48221 ms] T1 waiting for LED mutex
+[48224 ms] T1 acquired mutex - LED ON
+[48727 ms] T1 finished 500 ms active wait
+[48730 ms] T1 released mutex - yielding
+[48734 ms] T1 waiting for LED mutex
+[48737 ms] T1 acquired mutex - LED ON
+[49240 ms] T1 finished 500 ms active wait
+[49243 ms] T1 released mutex - yielding
+[49247 ms] T1 waiting for LED mutex
+[49250 ms] T1 acquired mutex - LED ON
+[49753 ms] T1 finished 500 ms active wait
+[49756 ms] T1 released mutex - yielding
+[49760 ms] T1 waiting for LED mutex
+[49763 ms] T1 acquired mutex - LED ON
+[50266 ms] T1 finished 500 ms active wait
+[50269 ms] T1 released mutex - yielding
+[50273 ms] T1 waiting for LED mutex
+[50276 ms] T1 acquired mutex - LED ON
+[50779 ms] T1 finished 500 ms active wait
+[50782 ms] T1 released mutex - yielding
+[50786 ms] T1 waiting for LED mutex
+[50789 ms] T1 acquired mutex - LED ON
+[51292 ms] T1 finished 500 ms active wait
+[51295 ms] T1 released mutex - yielding
+[51299 ms] T1 waiting for LED mutex
+[51302 ms] T1 acquired mutex - LED ON
+[51805 ms] T1 finished 500 ms active wait
+[51808 ms] T1 released mutex - yielding
+[51812 ms] T1 waiting for LED mutex
+[51815 ms] T1 acquired mutex - LED ON
+[52318 ms] T1 finished 500 ms active wait
+[52321 ms] T1 released mutex - yielding
+[52325 ms] T1 waiting for LED mutex
+[52328 ms] T1 acquired mutex - LED ON
+[52831 ms] T1 finished 500 ms active wait
+[52834 ms] T1 released mutex - yielding
+[52838 ms] T1 waiting for LED mutex
+[52841 ms] T1 acquired mutex - LED ON
+[53344 ms] T1 finished 500 ms active wait
+[53347 ms] T1 released mutex - yielding
+[53351 ms] T1 waiting for LED mutex
+[53354 ms] T1 acquired mutex - LED ON
+[53857 ms] T1 finished 500 ms active wait
+[53860 ms] T1 released mutex - yielding
+[53864 ms] T1 waiting for LED mutex
+[53867 ms] T1 acquired mutex - LED ON
+[54370 ms] T1 finished 500 ms active wait
+[54373 ms] T1 released mutex - yielding
+[54377 ms] T1 waiting for LED mutex
+[54380 ms] T1 acquired mutex - LED ON
+[54883 ms] T1 finished 500 ms active wait
+[54886 ms] T1 released mutex - yielding
+[54890 ms] T1 waiting for LED mutex
+[54893 ms] T1 acquired mutex - LED ON
+[55396 ms] T1 finished 500 ms active wait
+[55399 ms] T1 released mutex - yielding
+[55403 ms] T1 waiting for LED mutex
+[55406 ms] T1 acquired mutex - LED ON
+[55909 ms] T1 finished 500 ms active wait
+[55912 ms] T1 released mutex - yielding
+[55916 ms] T1 waiting for LED mutex
+[55919 ms] T1 acquired mutex - LED ON
+[56422 ms] T1 finished 500 ms active wait
+[56425 ms] T1 released mutex - yielding
+[56429 ms] T1 waiting for LED mutex
+[56432 ms] T1 acquired mutex - LED ON
+[56935 ms] T1 finished 500 ms active wait
+[56938 ms] T1 released mutex - yielding
+[56942 ms] T1 waiting for LED mutex
+[56945 ms] T1 acquired mutex - LED ON
+[57448 ms] T1 finished 500 ms active wait
+[57451 ms] T1 released mutex - yielding
+[57455 ms] T1 waiting for LED mutex
+[57458 ms] T1 acquired mutex - LED ON
+[57961 ms] T1 finished 500 ms active wait
+[57964 ms] T1 released mutex - yielding
+[57968 ms] T1 waiting for LED mutex
+[57971 ms] T1 acquired mutex - LED ON
+[58474 ms] T1 finished 500 ms active wait
+[58477 ms] T1 released mutex - yielding
+[58481 ms] T1 waiting for LED mutex
+[58484 ms] T1 acquired mutex - LED ON
+[58987 ms] T1 finished 500 ms active wait
+[58990 ms] T1 released mutex - yielding
+[58994 ms] T1 waiting for LED mutex
+[58997 ms] T1 acquired mutex - LED ON
+[59500 ms] T1 finished 500 ms active wait
+[59503 ms] T1 released mutex - yielding
+[59507 ms] T1 waiting for LED mutex
+[59510 ms] T1 acquired mutex - LED ON
+[60013 ms] T1 finished 500 ms active wait
+[60016 ms] T1 released mutex - yielding
+[60020 ms] T1 waiting for LED mutex
+[60023 ms] T1 acquired mutex - LED ON
+[60526 ms] T1 finished 500 ms active wait
+[60529 ms] T1 released mutex - yielding
+[60533 ms] T1 waiting for LED mutex
+[60536 ms] T1 acquired mutex - LED ON
+[61039 ms] T1 finished 500 ms active wait
+[61042 ms] T1 released mutex - yielding
+[61046 ms] T1 waiting for LED mutex
+[61049 ms] T1 acquired mutex - LED ON
+[61552 ms] T1 finished 500 ms active wait
+[61555 ms] T1 released mutex - yielding
+[61559 ms] T1 waiting for LED mutex
+[61562 ms] T1 acquired mutex - LED ON
+[62065 ms] T1 finished 500 ms active wait
+[62068 ms] T1 released mutex - yielding
+[62072 ms] T1 waiting for LED mutex
+[62075 ms] T1 acquired mutex - LED ON
+[62578 ms] T1 finished 500 ms active wait
+[62581 ms] T1 released mutex - yielding
+[62585 ms] T1 waiting for LED mutex
+[62588 ms] T1 acquired mutex - LED ON
+[63091 ms] T1 finished 500 ms active wait
+[63094 ms] T1 released mutex - yielding
+[63098 ms] T1 waiting for LED mutex
+[63101 ms] T1 acquired mutex - LED ON
+[63604 ms] T1 finished 500 ms active wait
+[63607 ms] T1 released mutex - yielding
+[63611 ms] T1 waiting for LED mutex
+[63614 ms] T1 acquired mutex - LED ON
+[64117 ms] T1 finished 500 ms active wait
+[64120 ms] T1 released mutex - yielding
+[64124 ms] T1 waiting for LED mutex
+[64127 ms] T1 acquired mutex - LED ON
+[64630 ms] T1 finished 500 ms active wait
+[64633 ms] T1 released mutex - yielding
+[64637 ms] T1 waiting for LED mutex
+[64640 ms] T1 acquired mutex - LED ON
+[65143 ms] T1 finished 500 ms active wait
+[65146 ms] T1 released mutex - yielding
+[65150 ms] T1 waiting for LED mutex
+[65153 ms] T1 acquired mutex - LED ON
+[65656 ms] T1 finished 500 ms active wait
+[65659 ms] T1 released mutex - yielding
+[65663 ms] T1 waiting for LED mutex
+[65666 ms] T1 acquired mutex - LED ON
+[66169 ms] T1 finished 500 ms active wait
+[66172 ms] T1 released mutex - yielding
+[66176 ms] T1 waiting for LED mutex
+[66179 ms] T1 acquired mutex - LED ON
+[66682 ms] T1 finished 500 ms active wait
+[66685 ms] T1 released mutex - yielding
+[66689 ms] T1 waiting for LED mutex
+[66692 ms] T1 acquired mutex - LED ON
+[67195 ms] T1 finished 500 ms active wait
+[67198 ms] T1 released mutex - yielding
+[67202 ms] T1 waiting for LED mutex
+[67205 ms] T1 acquired mutex - LED ON
+[67708 ms] T1 finished 500 ms active wait
+[67711 ms] T1 released mutex - yielding
+[67715 ms] T1 waiting for LED mutex
+[67718 ms] T1 acquired mutex - LED ON
+[68221 ms] T1 finished 500 ms active wait
+[68224 ms] T1 released mutex - yielding
+[68228 ms] T1 waiting for LED mutex
+[68231 ms] T1 acquired mutex - LED ON
+[68734 ms] T1 finished 500 ms active wait
+[68737 ms] T1 released mutex - yielding
+[68741 ms] T1 waiting for LED mutex
+[68744 ms] T1 acquired mutex - LED ON
+[69247 ms] T1 finished 500 ms active wait
+[69250 ms] T1 released mutex - yielding
+[69254 ms] T1 waiting for LED mutex
+[69257 ms] T1 acquired mutex - LED ON
+[69760 ms] T1 finished 500 ms active wait
+[69763 ms] T1 released mutex - yielding
+[69767 ms] T1 waiting for LED mutex
+[69770 ms] T1 acquired mutex - LED ON
+[70273 ms] T1 finished 500 ms active wait
+[70276 ms] T1 released mutex - yielding
+[70280 ms] T1 waiting for LED mutex
+[70283 ms] T1 acquired mutex - LED ON
+[70786 ms] T1 finished 500 ms active wait
+[70789 ms] T1 released mutex - yielding
+[70793 ms] T1 waiting for LED mutex
+[70796 ms] T1 acquired mutex - LED ON
+[71299 ms] T1 finished 500 ms active wait
+[71302 ms] T1 released mutex - yielding
+[71306 ms] T1 waiting for LED mutex
+[71309 ms] T1 acquired mutex - LED ON
+[71812 ms] T1 finished 500 ms active wait
+[71815 ms] T1 released mutex - yielding
+[71819 ms] T1 waiting for LED mutex
+[71822 ms] T1 acquired mutex - LED ON
+[72325 ms] T1 finished 500 ms active wait
+[72328 ms] T1 released mutex - yielding
+[72332 ms] T1 waiting for LED mutex
+[72335 ms] T1 acquired mutex - LED ON
+[72838 ms] T1 finished 500 ms active wait
+[72841 ms] T1 released mutex - yielding
+[72845 ms] T1 waiting for LED mutex
+[72848 ms] T1 acquired mutex - LED ON
+[73351 ms] T1 finished 500 ms active wait
+[73354 ms] T1 released mutex - yielding
+[73358 ms] T1 waiting for LED mutex
+[73361 ms] T1 acquired mutex - LED ON
+[73864 ms] T1 finished 500 ms active wait
+[73867 ms] T1 released mutex - yielding
+[73871 ms] T1 waiting for LED mutex
+[73874 ms] T1 acquired mutex - LED ON
+[74377 ms] T1 finished 500 ms active wait
+[74380 ms] T1 released mutex - yielding
+[74384 ms] T1 waiting for LED mutex
+[74387 ms] T1 acquired mutex - LED ON
+[74890 ms] T1 finished 500 ms active wait
+[74893 ms] T1 released mutex - yielding
+[74897 ms] T1 waiting for LED mutex
+[74900 ms] T1 acquired mutex - LED ON
+[75403 ms] T1 finished 500 ms active wait
+[75406 ms] T1 released mutex - yielding
+[75410 ms] T1 waiting for LED mutex
+[75413 ms] T1 acquired mutex - LED ON
+[75916 ms] T1 finished 500 ms active wait
+[75919 ms] T1 released mutex - yielding
+[75923 ms] T1 waiting for LED mutex
+[75926 ms] T1 acquired mutex - LED ON
+[76429 ms] T1 finished 500 ms active wait
+[76432 ms] T1 released mutex - yielding
+[76436 ms] T1 waiting for LED mutex
+[76439 ms] T1 acquired mutex - LED ON
+[76942 ms] T1 finished 500 ms active wait
+[76945 ms] T1 released mutex - yielding
+[76949 ms] T1 waiting for LED mutex
+[76952 ms] T1 acquired mutex - LED ON
+[77455 ms] T1 finished 500 ms active wait
+[77458 ms] T1 released mutex - yielding
+[77462 ms] T1 waiting for LED mutex
+[77465 ms] T1 acquired mutex - LED ON
+[77968 ms] T1 finished 500 ms active wait
+[77971 ms] T1 released mutex - yielding
+[77975 ms] T1 waiting for LED mutex
+[77978 ms] T1 acquired mutex - LED ON
+[78481 ms] T1 finished 500 ms active wait
+[78484 ms] T1 released mutex - yielding
+[78488 ms] T1 waiting for LED mutex
+[78491 ms] T1 acquired mutex - LED ON
+[78994 ms] T1 finished 500 ms active wait
+[78997 ms] T1 released mutex - yielding
+[79001 ms] T1 waiting for LED mutex
+[79004 ms] T1 acquired mutex - LED ON
+[79507 ms] T1 finished 500 ms active wait
+[79510 ms] T1 released mutex - yielding
+[79514 ms] T1 waiting for LED mutex
+[79517 ms] T1 acquired mutex - LED ON
+[80020 ms] T1 finished 500 ms active wait
+[80023 ms] T1 released mutex - yielding
+[80027 ms] T1 waiting for LED mutex
+[80030 ms] T1 acquired mutex - LED ON
+[80533 ms] T1 finished 500 ms active wait
+[80536 ms] T1 released mutex - yielding
+[80540 ms] T1 waiting for LED mutex
+[80543 ms] T1 acquired mutex - LED ON
+[81046 ms] T1 finished 500 ms active wait
+[81049 ms] T1 released mutex - yielding
+[81053 ms] T1 waiting for LED mutex
+[81056 ms] T1 acquired mutex - LED ON
+[81559 ms] T1 finished 500 ms active wait
+[81562 ms] T1 released mutex - yielding
+[81566 ms] T1 waiting for LED mutex
+[81569 ms] T1 acquired mutex - LED ON
+[82072 ms] T1 finished 500 ms active wait
+[82075 ms] T1 released mutex - yielding
+[82079 ms] T1 waiting for LED mutex
+[82082 ms] T1 acquired mutex - LED ON
+[82585 ms] T1 finished 500 ms active wait
+[82588 ms] T1 released mutex - yielding
+[82592 ms] T1 waiting for LED mutex
+[82595 ms] T1 acquired mutex - LED ON
+[83098 ms] T1 finished 500 ms active wait
+[83101 ms] T1 released mutex - yielding
+[83105 ms] T1 waiting for LED mutex
+[83108 ms] T1 acquired mutex - LED ON
+[83611 ms] T1 finished 500 ms active wait
+[83614 ms] T1 released mutex - yielding
+[83618 ms] T1 waiting for LED mutex
+[83621 ms] T1 acquired mutex - LED ON
+[84124 ms] T1 finished 500 ms active wait
+[84127 ms] T1 released mutex - yielding
+[84131 ms] T1 waiting for LED mutex
+[84134 ms] T1 acquired mutex - LED ON
+[84637 ms] T1 finished 500 ms active wait
+[84640 ms] T1 released mutex - yielding
+[84644 ms] T1 waiting for LED mutex
+[84647 ms] T1 acquired mutex - LED ON
+[85150 ms] T1 finished 500 ms active wait
+[85153 ms] T1 released mutex - yielding
+[85157 ms] T1 waiting for LED mutex
+[85160 ms] T1 acquired mutex - LED ON
+[85663 ms] T1 finished 500 ms active wait
+[85666 ms] T1 released mutex - yielding
+[85670 ms] T1 waiting for LED mutex
+[85673 ms] T1 acquired mutex - LED ON
+[86176 ms] T1 finished 500 ms active wait
+[86179 ms] T1 released mutex - yielding
+[86183 ms] T1 waiting for LED mutex
+[86186 ms] T1 acquired mutex - LED ON
+[86689 ms] T1 finished 500 ms active wait
+[86692 ms] T1 released mutex - yielding
+[86696 ms] T1 waiting for LED mutex
+[86699 ms] T1 acquired mutex - LED ON
+[87202 ms] T1 finished 500 ms active wait
+[87205 ms] T1 released mutex - yielding
+[87209 ms] T1 waiting for LED mutex
+[87212 ms] T1 acquired mutex - LED ON
+[87715 ms] T1 finished 500 ms active wait
+[87718 ms] T1 released mutex - yielding
+[87722 ms] T1 waiting for LED mutex
+[87725 ms] T1 acquired mutex - LED ON
+[88228 ms] T1 finished 500 ms active wait
+[88231 ms] T1 released mutex - yielding
+[88235 ms] T1 waiting for LED mutex
+[88238 ms] T1 acquired mutex - LED ON
+[88741 ms] T1 finished 500 ms active wait
+[88744 ms] T1 released mutex - yielding
+[88748 ms] T1 waiting for LED mutex
+[88751 ms] T1 acquired mutex - LED ON
+[89254 ms] T1 finished 500 ms active wait
+[89257 ms] T1 released mutex - yielding
+[89261 ms] T1 waiting for LED mutex
+[89264 ms] T1 acquired mutex - LED ON
+[89767 ms] T1 finished 500 ms active wait
+[89770 ms] T1 released mutex - yielding
+[89774 ms] T1 waiting for LED mutex
+[89777 ms] T1 acquired mutex - LED ON
+[90280 ms] T1 finished 500 ms active wait
+[90283 ms] T1 released mutex - yielding
+[90287 ms] T1 waiting for LED mutex
+[90290 ms] T1 acquired mutex - LED ON
+[90793 ms] T1 finished 500 ms active wait
+[90796 ms] T1 released mutex - yielding
+[90800 ms] T1 waiting for LED mutex
+[90803 ms] T1 acquired mutex - LED ON
+[91306 ms] T1 finished 500 ms active wait
+[91309 ms] T1 released mutex - yielding
+[91313 ms] T1 waiting for LED mutex
+[91316 ms] T1 acquired mutex - LED ON
+[91819 ms] T1 finished 500 ms active wait
+[91822 ms] T1 released mutex - yielding
+[91826 ms] T1 waiting for LED mutex
+[91829 ms] T1 acquired mutex - LED ON
+[92332 ms] T1 finished 500 ms active wait
+[92335 ms] T1 released mutex - yielding
+[92339 ms] T1 waiting for LED mutex
+[92342 ms] T1 acquired mutex - LED ON
+[92845 ms] T1 finished 500 ms active wait
+[92848 ms] T1 released mutex - yielding
+[92852 ms] T1 waiting for LED mutex
+[92855 ms] T1 acquired mutex - LED ON
+[93358 ms] T1 finished 500 ms active wait
+[93361 ms] T1 released mutex - yielding
+[93365 ms] T1 waiting for LED mutex
+[93368 ms] T1 acquired mutex - LED ON
+[93871 ms] T1 finished 500 ms active wait
+[93874 ms] T1 released mutex - yielding
+[93878 ms] T1 waiting for LED mutex
+[93881 ms] T1 acquired mutex - LED ON
+[94384 ms] T1 finished 500 ms active wait
+[94387 ms] T1 released mutex - yielding
+[94391 ms] T1 waiting for LED mutex
+[94394 ms] T1 acquired mutex - LED ON
+[94897 ms] T1 finished 500 ms active wait
+[94900 ms] T1 released mutex - yielding
+[94904 ms] T1 waiting for LED mutex
+[94907 ms] T1 acquired mutex - LED ON
+[95410 ms] T1 finished 500 ms active wait
+[95413 ms] T1 released mutex - yielding
+[95417 ms] T1 waiting for LED mutex
+[95420 ms] T1 acquired mutex - LED ON
+[95923 ms] T1 finished 500 ms active wait
+[95926 ms] T1 released mutex - yielding
+[95930 ms] T1 waiting for LED mutex
+[95933 ms] T1 acquired mutex - LED ON
+[96436 ms] T1 finished 500 ms active wait
+[96439 ms] T1 released mutex - yielding
+[96443 ms] T1 waiting for LED mutex
+[96446 ms] T1 acquired mutex - LED ON
+[96949 ms] T1 finished 500 ms active wait
+[96952 ms] T1 released mutex - yielding
+[96956 ms] T1 waiting for LED mutex
+[96959 ms] T1 acquired mutex - LED ON
+[97462 ms] T1 finished 500 ms active wait
+[97465 ms] T1 released mutex - yielding
+[97469 ms] T1 waiting for LED mutex
+[97472 ms] T1 acquired mutex - LED ON
+[97975 ms] T1 finished 500 ms active wait
+[97978 ms] T1 released mutex - yielding
+[97982 ms] T1 waiting for LED mutex
+[97985 ms] T1 acquired mutex - LED ON
+[98488 ms] T1 finished 500 ms active wait
+[98491 ms] T1 released mutex - yielding
+[98495 ms] T1 waiting for LED mutex
+[98498 ms] T1 acquired mutex - LED ON
+[99001 ms] T1 finished 500 ms active wait
+[99004 ms] T1 released mutex - yielding
+[99008 ms] T1 waiting for LED mutex
+[99011 ms] T1 acquired mutex - LED ON
+[99514 ms] T1 finished 500 ms active wait
+[99517 ms] T1 released mutex - yielding
+[99521 ms] T1 waiting for LED mutex
+[99524 ms] T1 acquired mutex - LED ON
+[100027 ms] T1 finished 500 ms active wait
+[100030 ms] T1 released mutex - yielding
+[100034 ms] T1 waiting for LED mutex
+[100037 ms] T1 acquired mutex - LED ON
+[100541 ms] T1 finished 500 ms active wait
+[100544 ms] T1 released mutex - yielding
+[100548 ms] T1 waiting for LED mutex
+[100551 ms] T1 acquired mutex - LED ON
+[101055 ms] T1 finished 500 ms active wait
+[101058 ms] T1 released mutex - yielding
+[101062 ms] T1 waiting for LED mutex
+[101065 ms] T1 acquired mutex - LED ON
+[101569 ms] T1 finished 500 ms active wait
+[101572 ms] T1 released mutex - yielding
+[101576 ms] T1 waiting for LED mutex
+[101579 ms] T1 acquired mutex - LED ON
+[102083 ms] T1 finished 500 ms active wait
+[102086 ms] T1 released mutex - yielding
+[102090 ms] T1 waiting for LED mutex
+[102093 ms] T1 acquired mutex - LED ON
+[102597 ms] T1 finished 500 ms active wait
+[102600 ms] T1 released mutex - yielding
+[102604 ms] T1 waiting for LED mutex
+[102607 ms] T1 acquired mutex - LED ON
+[103111 ms] T1 finished 500 ms active wait
+[103114 ms] T1 released mutex - yielding
+[103118 ms] T1 waiting for LED mutex
+[103121 ms] T1 acquired mutex - LED ON
+[103625 ms] T1 finished 500 ms active wait
+[103628 ms] T1 released mutex - yielding
+[103632 ms] T1 waiting for LED mutex
+[103635 ms] T1 acquired mutex - LED ON
+[104139 ms] T1 finished 500 ms active wait
+[104142 ms] T1 released mutex - yielding
+[104146 ms] T1 waiting for LED mutex
+[104149 ms] T1 acquired mutex - LED ON
+[104653 ms] T1 finished 500 ms active wait
+[104656 ms] T1 released mutex - yielding
+[104660 ms] T1 waiting for LED mutex
+[104663 ms] T1 acquired mutex - LED ON
+[105167 ms] T1 finished 500 ms active wait
+[105170 ms] T1 released mutex - yielding
+[105174 ms] T1 waiting for LED mutex
+[105177 ms] T1 acquired mutex - LED ON
+[105681 ms] T1 finished 500 ms active wait
+[105684 ms] T1 released mutex - yielding
+[105688 ms] T1 waiting for LED mutex
+[105691 ms] T1 acquired mutex - LED ON
+[106195 ms] T1 finished 500 ms active wait
+[106198 ms] T1 released mutex - yielding
+[106202 ms] T1 waiting for LED mutex
+[106205 ms] T1 acquired mutex - LED ON
+[106709 ms] T1 finished 500 ms active wait
+[106712 ms] T1 released mutex - yielding
+[106716 ms] T1 waiting for LED mutex
+[106719 ms] T1 acquired mutex - LED ON
+[107223 ms] T1 finished 500 ms active wait
+[107226 ms] T1 released mutex - yielding
+[107230 ms] T1 waiting for LED mutex
+[107233 ms] T1 acquired mutex - LED ON
+[107737 ms] T1 finished 500 ms active wait
+[107740 ms] T1 released mutex - yielding
+[107744 ms] T1 waiting for LED mutex
+[107747 ms] T1 acquired mutex - LED ON
+[108251 ms] T1 finished 500 ms active wait
+[108254 ms] T1 released mutex - yielding
+[108258 ms] T1 waiting for LED mutex
+[108261 ms] T1 acquired mutex - LED ON
+[108765 ms] T1 finished 500 ms active wait
+[108768 ms] T1 released mutex - yielding
+[108772 ms] T1 waiting for LED mutex
+[108775 ms] T1 acquired mutex - LED ON
+[109279 ms] T1 finished 500 ms active wait
+[109282 ms] T1 released mutex - yielding
+[109286 ms] T1 waiting for LED mutex
+[109289 ms] T1 acquired mutex - LED ON
+[109793 ms] T1 finished 500 ms active wait
+[109796 ms] T1 released mutex - yielding
+[109800 ms] T1 waiting for LED mutex
+[109803 ms] T1 acquired mutex - LED ON
+[110307 ms] T1 finished 500 ms active wait
+[110310 ms] T1 released mutex - yielding
+[110314 ms] T1 waiting for LED mutex
+[110317 ms] T1 acquired mutex - LED ON
+[110821 ms] T1 finished 500 ms active wait
+[110824 ms] T1 released mutex - yielding
+[110828 ms] T1 waiting for LED mutex
+[110831 ms] T1 acquired mutex - LED ON
+[111335 ms] T1 finished 500 ms active wait
+[111338 ms] T1 released mutex - yielding
+[111342 ms] T1 waiting for LED mutex
+[111345 ms] T1 acquired mutex - LED ON
+[111849 ms] T1 finished 500 ms active wait
+[111852 ms] T1 released mutex - yielding
+[111856 ms] T1 waiting for LED mutex
+[111859 ms] T1 acquired mutex - LED ON
+[112363 ms] T1 finished 500 ms active wait
+[112366 ms] T1 released mutex - yielding
+[112370 ms] T1 waiting for LED mutex
+[112373 ms] T1 acquired mutex - LED ON
+[112877 ms] T1 finished 500 ms active wait
+[112880 ms] T1 released mutex - yielding
+[112884 ms] T1 waiting for LED mutex
+[112887 ms] T1 acquired mutex - LED ON
+[113391 ms] T1 finished 500 ms active wait
+[113394 ms] T1 released mutex - yielding
+[113398 ms] T1 waiting for LED mutex
+[113401 ms] T1 acquired mutex - LED ON
+[113905 ms] T1 finished 500 ms active wait
+[113908 ms] T1 released mutex - yielding
+[113912 ms] T1 waiting for LED mutex
+[113915 ms] T1 acquired mutex - LED ON
+[114419 ms] T1 finished 500 ms active wait
+[114422 ms] T1 released mutex - yielding
+[114426 ms] T1 waiting for LED mutex
+[114429 ms] T1 acquired mutex - LED ON
+[114933 ms] T1 finished 500 ms active wait
+[114936 ms] T1 released mutex - yielding
+[114940 ms] T1 waiting for LED mutex
+[114943 ms] T1 acquired mutex - LED ON
+[115447 ms] T1 finished 500 ms active wait
+[115450 ms] T1 released mutex - yielding
+[115454 ms] T1 waiting for LED mutex
+[115457 ms] T1 acquired mutex - LED ON
+[115961 ms] T1 finished 500 ms active wait
+[115964 ms] T1 released mutex - yielding
+[115968 ms] T1 waiting for LED mutex
+[115971 ms] T1 acquired mutex - LED ON
+[116475 ms] T1 finished 500 ms active wait
+[116478 ms] T1 released mutex - yielding
+[116482 ms] T1 waiting for LED mutex
+[116485 ms] T1 acquired mutex - LED ON
+[116989 ms] T1 finished 500 ms active wait
+[116992 ms] T1 released mutex - yielding
+[116996 ms] T1 waiting for LED mutex
+[116999 ms] T1 acquired mutex - LED ON
+[117503 ms] T1 finished 500 ms active wait
+[117506 ms] T1 released mutex - yielding
+[117510 ms] T1 waiting for LED mutex
+[117513 ms] T1 acquired mutex - LED ON
+[118017 ms] T1 finished 500 ms active wait
+[118020 ms] T1 released mutex - yielding
+[118024 ms] T1 waiting for LED mutex
+[118027 ms] T1 acquired mutex - LED ON
+[118531 ms] T1 finished 500 ms active wait
+[118534 ms] T1 released mutex - yielding
+[118538 ms] T1 waiting for LED mutex
+[118541 ms] T1 acquired mutex - LED ON
+[119045 ms] T1 finished 500 ms active wait
+[119048 ms] T1 released mutex - yielding
+[119052 ms] T1 waiting for LED mutex
+[119055 ms] T1 acquired mutex - LED ON
+[119559 ms] T1 finished 500 ms active wait
+[119562 ms] T1 released mutex - yielding
+[119566 ms] T1 waiting for LED mutex
+[119569 ms] T1 acquired mutex - LED ON
+[120073 ms] T1 finished 500 ms active wait
+[120076 ms] T1 released mutex - yielding
+[120080 ms] T1 waiting for LED mutex
+[120083 ms] T1 acquired mutex - LED ON
+[120587 ms] T1 finished 500 ms active wait
+[120590 ms] T1 released mutex - yielding
+[120594 ms] T1 waiting for LED mutex
+[120597 ms] T1 acquired mutex - LED ON
+[121101 ms] T1 finished 500 ms active wait
+[121104 ms] T1 released mutex - yielding
+[121108 ms] T1 waiting for LED mutex
+[121111 ms] T1 acquired mutex - LED ON
+[121615 ms] T1 finished 500 ms active wait
+[121618 ms] T1 released mutex - yielding
+[121622 ms] T1 waiting for LED mutex
+[121625 ms] T1 acquired mutex - LED ON
+[122129 ms] T1 finished 500 ms active wait
+[122132 ms] T1 released mutex - yielding
+[122136 ms] T1 waiting for LED mutex
+[122139 ms] T1 acquired mutex - LED ON
+[122643 ms] T1 finished 500 ms active wait
+[122646 ms] T1 released mutex - yielding
+[122650 ms] T1 waiting for LED mutex
+[122653 ms] T1 acquired mutex - LED ON
+[123157 ms] T1 finished 500 ms active wait
+[123160 ms] T1 released mutex - yielding
+[123164 ms] T1 waiting for LED mutex
+[123167 ms] T1 acquired mutex - LED ON
+[123671 ms] T1 finished 500 ms active wait
+[123674 ms] T1 released mutex - yielding
+[123678 ms] T1 waiting for LED mutex
+[123681 ms] T1 acquired mutex - LED ON
+[124185 ms] T1 finished 500 ms active wait
+[124188 ms] T1 released mutex - yielding
+[124192 ms] T1 waiting for LED mutex
+[124195 ms] T1 acquired mutex - LED ON
+[124699 ms] T1 finished 500 ms active wait
+[124702 ms] T1 released mutex - yielding
+[124706 ms] T1 waiting for LED mutex
+[124709 ms] T1 acquired mutex - LED ON
+[125213 ms] T1 finished 500 ms active wait
+[125216 ms] T1 released mutex - yielding
+[125220 ms] T1 waiting for LED mutex
+[125223 ms] T1 acquired mutex - LED ON
+[125727 ms] T1 finished 500 ms active wait
+[125730 ms] T1 released mutex - yielding
+[125734 ms] T1 waiting for LED mutex
+[125737 ms] T1 acquired mutex - LED ON
+[126241 ms] T1 finished 500 ms active wait
+[126244 ms] T1 released mutex - yielding
+[126248 ms] T1 waiting for LED mutex
+[126251 ms] T1 acquired mutex - LED ON
+[126755 ms] T1 finished 500 ms active wait
+[126758 ms] T1 released mutex - yielding
+[126762 ms] T1 waiting for LED mutex
+[126765 ms] T1 acquired mutex - LED ON
+[127269 ms] T1 finished 500 ms active wait
+[127272 ms] T1 released mutex - yielding
+[127276 ms] T1 waiting for LED mutex
+[127279 ms] T1 acquired mutex - LED ON
+[127783 ms] T1 finished 500 ms active wait
+[127786 ms] T1 released mutex - yielding
+[127790 ms] T1 waiting for LED mutex
+[127793 ms] T1 acquired mutex - LED ON
+[128297 ms] T1 finished 500 ms active wait
+[128300 ms] T1 released mutex - yielding
+[128304 ms] T1 waiting for LED mutex
+[128307 ms] T1 acquired mutex - LED ON
+[128811 ms] T1 finished 500 ms active wait
+[128814 ms] T1 released mutex - yielding
+[128818 ms] T1 waiting for LED mutex
+[128821 ms] T1 acquired mutex - LED ON
+[129325 ms] T1 finished 500 ms active wait
+[129328 ms] T1 released mutex - yielding
+[129332 ms] T1 waiting for LED mutex
+[129335 ms] T1 acquired mutex - LED ON
+[129839 ms] T1 finished 500 ms active wait
+[129842 ms] T1 released mutex - yielding
+[129846 ms] T1 waiting for LED mutex
+[129849 ms] T1 acquired mutex - LED ON
+[130353 ms] T1 finished 500 ms active wait
+[130356 ms] T1 released mutex - yielding
+[130360 ms] T1 waiting for LED mutex
+[130363 ms] T1 acquired mutex - LED ON
+[130867 ms] T1 finished 500 ms active wait
+[130870 ms] T1 released mutex - yielding
+[130874 ms] T1 waiting for LED mutex
+[130877 ms] T1 acquired mutex - LED ON
+[131381 ms] T1 finished 500 ms active wait
+[131384 ms] T1 released mutex - yielding
+[131388 ms] T1 waiting for LED mutex
+[131391 ms] T1 acquired mutex - LED ON
+[131895 ms] T1 finished 500 ms active wait
+[131898 ms] T1 released mutex - yielding
+[131902 ms] T1 waiting for LED mutex
+[131905 ms] T1 acquired mutex - LED ON
+[132409 ms] T1 finished 500 ms active wait
+[132412 ms] T1 released mutex - yielding
+[132416 ms] T1 waiting for LED mutex
+[132419 ms] T1 acquired mutex - LED ON
+[132923 ms] T1 finished 500 ms active wait
+[132926 ms] T1 released mutex - yielding
+[132930 ms] T1 waiting for LED mutex
+[132933 ms] T1 acquired mutex - LED ON
+[133437 ms] T1 finished 500 ms active wait
+[133440 ms] T1 released mutex - yielding
+[133444 ms] T1 waiting for LED mutex
+[133447 ms] T1 acquired mutex - LED ON
+[133951 ms] T1 finished 500 ms active wait
+[133954 ms] T1 released mutex - yielding
+[133958 ms] T1 waiting for LED mutex
+[133961 ms] T1 acquired mutex - LED ON
+[134465 ms] T1 finished 500 ms active wait
+[134468 ms] T1 released mutex - yielding
+[134472 ms] T1 waiting for LED mutex
+[134475 ms] T1 acquired mutex - LED ON
+[134979 ms] T1 finished 500 ms active wait
+[134982 ms] T1 released mutex - yielding
+[134986 ms] T1 waiting for LED mutex
+[134989 ms] T1 acquired mutex - LED ON
+[135493 ms] T1 finished 500 ms active wait
+[135496 ms] T1 released mutex - yielding
+[135500 ms] T1 waiting for LED mutex
+[135503 ms] T1 acquired mutex - LED ON
