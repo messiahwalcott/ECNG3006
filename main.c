@@ -1,7 +1,7 @@
 /*
  * ECNG 3006 - Lab 3, Question 3
- * Author: Ryan Seecharan
- * Student ID: 816033870
+ * Author: Messiah Walcott
+ * Student ID: 816032825
  * RTC routine execution-time test using GPIO pulse widths.
  * D2 / PA10 (CH2): singlewrite_rtc(); D3 / PA11 (CH1): singleread_rtc().
  * PB08: built-in LED, on after a verified iteration; off on failure.
